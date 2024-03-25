@@ -1,0 +1,76 @@
+site_name: Farming Fortune Guide
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.top
+    - search.share
+    - navigation.indexes
+
+markdown_extensions:
+  - def_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.snippets
+  - toc:
+      slugify:
+        !!python/object/apply:pymdownx.slugs.slugify { kwds: { case: lower } }
+      permalink: true
+  - admonition
+  - pymdownx.smartsymbols
+  - pymdownx.betterem
+  - attr_list
+  - tables
+  - abbr
+  - footnotes
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.escapeall:
+      hardbreak: True
+      nbsp: True
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.progressbar
+  - pymdownx.arithmatex:
+      generic: true
+      block_tag: "pre"
+  - pymdownx.mark
+  - pymdownx.striphtml:
+  - pymdownx.keys:
+      separator: "\uff0b"
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.saneheaders
