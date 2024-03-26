@@ -1,4 +1,7 @@
 site_name: Farming Fortune Guide
+repo_name: Fortune Guide
+edit_uri: edit/main/docs/
+repo_url: https://github.com/superhize/Guide
 theme:
   name: material
   palette:
@@ -27,6 +30,7 @@ theme:
     - navigation.top
     - search.share
     - navigation.indexes
+    - content.action.edit
 
 markdown_extensions:
   - def_list
@@ -74,3 +78,23 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.saneheaders
+nav:
+  - "Fortune Guide":
+    - "Main": index.md
+    - "Skills Level": skills.md
+    - "Extra Farming Fortune Perk": extra_farming_fortune_perk.md
+    - "Garden Farming Fortune Account Upgrade": garden_fortune_account_upgrade.md
+    - "Crop Upgrade": crop_upgrade.md
+    - "Garden Plot": garden_plot.md
+    - "Tools": tools.md
+    - "Armors": armors.md
+    - "Pets": pets.md
+    - "Pets Item": pet_item.md
+    - "Accessories": accessories.md
+    - "Personal Best": personal_best.md
+    - "Misc": misc.md
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-revision-date-localized:
+      enable_creation_date: true
