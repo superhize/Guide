@@ -7,7 +7,7 @@
     * [Pesterminator](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Pesterminator) V - +15☘
 - Reforge 90☘
     * Mossy ([Overgrown Grass](https://hypixel-skyblock.fandom.com/wiki/Overgrown_Grass?so=search)) - +90☘ (MYTHIC)
-- Gemstones:
+- Gemstones 60☘
     * Perfect Peridot - 60☘ (MYTHIC)
 
 #### [Rancher's Boots](https://hypixel-skyblock.fandom.com/wiki/Rancher's_Boots?so=search)
@@ -16,7 +16,7 @@
     * [Pesterminator](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Pesterminator) V - +15☘
 - Reforge 25☘
     * Mossy ([Overgrown Grass](https://hypixel-skyblock.fandom.com/wiki/Overgrown_Grass?so=search)) - +25☘ (LEGENDARY)
-- Gemstones:
+- Gemstones 8☘
     * Perfect Peridot - 8 (LEGENDARY)
 
 ### [Equipment](https://hypixel-skyblock.fandom.com/wiki/Equipment?so=search)
