@@ -9,3 +9,9 @@ It Cost 8x Condensed Fermento and 1x [Squash Ring](https://hypixel-skyblock.fand
     * +25☘ on a random crop during a jacob's contest.
 
 It cost :minecraft-16x-item-gold_ingot: 2x Gold Medal, :minecraft-16x-item-name_tag: 100x Jacob's Ticket and 1x [Anita's Ring](https://hypixel-skyblock.fandom.com/wiki/Anita%27s_Ring)
+
+!!! danger ""
+    Only apply in the garden while it's the Spring season.
+
+- [Atmospheric Filter](https://hypixel-skyblock.fandom.com/wiki/Atmospheric_Filter)
+    - 25☘ During Spring.
