@@ -28,10 +28,12 @@
         * [Dedication](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Dedication) IV - +92☘
         * [Cultivating](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Cultivating) X - +10☘
         * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
-    - Upgrades 149FF
+    - Upgrades 149☘
         * Logarithmic Counter - +96☘
         * Collection Analysis -  +48☘
         * [Farming For Dummies](https://hypixel-skyblock.fandom.com/wiki/Farming_for_Dummies?so=search) - +5☘
+    - Gemstones 20☘
+        * Perfect Peridot x3 - +30☘ (MYTHIC)
 
 !!! warning ""
 
@@ -50,6 +52,8 @@
         * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
     - Reforge 20☘
         * Blessed - +20☘
+    - Gemstones 20☘
+        * Perfect Peridot x2 - +20☘ (MYTHIC)
 
 !!! success ""
 
@@ -62,6 +66,8 @@
         * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
     - Reforge 13☘
         * Blessed - +13☘
+    - Gemstones 16☘
+        * Perfect Peridot x2 - +16☘ (LEGENDARY)
 
 !!! tips ""
 
@@ -74,6 +80,8 @@
         * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
     - Reforge 16☘
         * Blessed - +16☘
+    - Gemstones 16☘
+        * Perfect Peridot x2 - +16☘ (LEGENDARY)
 
 !!! question ""
 
@@ -85,3 +93,5 @@
         * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
     - Reforge 16☘
         * Blessed - +16☘
+    - Gemstones 16☘
+        * Perfect Peridot x2 - +16☘ (LEGENDARY)
