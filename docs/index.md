@@ -18,15 +18,15 @@
 
 ### [Garden Plot Land](garden_plot.md) - Up to +72☘
 
-### [Tools](tools.md) - Up to +421☘
+### [Tools](tools.md) - Up to +451☘
 
-### [Armors](armors.md) - Up to +290☘
+### [Armors](armors.md) - Up to +376☘
 
 ### [Pets](pets.md) - Up to 216.9☘
 
 ### [Pet Items](pet_item.md) - Up to +60☘
 
-### [Accessories](accessories.md) - Up to +30☘
+### [Accessories](accessories.md) - Up to +80☘
 
 ### [Personal Best](personal_best.md) - Up to 100☘ per crop
 
