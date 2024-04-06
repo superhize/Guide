@@ -44,7 +44,10 @@
         - :minecraft-16x-item-diamond_axe:[Melon](https://hypixel-skyblock.fandom.com/wiki/Melon_Dicer)
 
     - Enchants 75☘
-        * Sunder VI - +75☘
+        * [Sunder](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Sunder) VI - +75☘
+        * [Harvesting](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Harvesting) VI - +75☘
+        * [Dedication](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Dedication) IV - +92☘
+        * [Turbo-Crop](https://hypixel-skyblock.fandom.com/wiki/Enchantments?so=search#Turbo-Crop) V - +25☘
     - Reforge 20☘
         * Blessed - +20☘
 
