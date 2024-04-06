@@ -17,7 +17,7 @@
 - Reforge 25☘
     * Mossy ([Overgrown Grass](https://hypixel-skyblock.fandom.com/wiki/Overgrown_Grass?so=search)) - +25☘ (LEGENDARY)
 - Gemstones 8☘
-    * Perfect Peridot - 8 (LEGENDARY)
+    * Perfect Peridot - 16☘ (LEGENDARY)
 
 ### [Equipment](https://hypixel-skyblock.fandom.com/wiki/Equipment?so=search)
 #### [Per Piece](https://hypixel-skyblock.fandom.com/wiki/Lotus_Set?so=search#Set)
